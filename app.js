@@ -422,6 +422,7 @@ function copyThis(data) {
 }
 
 /*safelink*/
-  var api_token = 'ThGXmf3rkGcKcu8qlTrGv16vYh9Jj4SenEj4i/ZFzRE=';
-  var domain_mark = 'exclude';
-  var domain = 'grachive.ryuu.biz.id';
+var app_url = 'https://paid4link.com/';
+var app_api_token = '5f6073509a8bbf67ab83f0b47d4039b891371cb1';
+var app_advert = 2;
+var app_domains = ["anonfiles.com","file.rndmzr.my.id"];
