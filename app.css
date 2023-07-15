@@ -81,3 +81,18 @@ body.dark-mode .alert-light{--bs-alert-color:#fff;--bs-alert-bg:#212529;--bs-ale
 @media (max-width:768px){
 	#btn-back-to-top {bottom: 65px; right: 0px; border-radius: 10px 0 0 10px !important; } 
 }
+
+/* iframe */
+.iframepost {
+  position: relative;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+.iframepost iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border:0;
+}
