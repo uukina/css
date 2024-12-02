@@ -1,0 +1,12 @@
+<div style="text-align: center;">
+<h3>Informasi</h3>
+<strong>Nama</strong> : [artis_indo]
+<strong>Set</strong> : [set]
+<strong>Konten</strong> : [konten]
+<strong>Ukuran</strong> : [size]
+</div>
+
+<div style="text-align: center;">
+<h3>Link Download :</h3>
+<a href="[link]" rel="noopener" target="_blank" class="download_btn" data-bs-toggle="tooltip" data-bs-placement="top" >[server]</a>
+</div>
